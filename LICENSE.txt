@@ -1,0 +1,73 @@
+CONTRATTO DI LICENZA CON L'UTENTE FINALE (EULA)
+
+SOFTWARE: KekkoTech Blueprint
+TITOLARE DELLA LICENZA (Licenziante): Matteo Checcacci con il nome di KekkoTech Softwares
+DATA DI RILASCIO: 11 novembre 2026
+
+Questo Contratto di Licenza con l'Utente Finale ("EULA") e' un accordo legale tra Lei (persona fisica o giuridica, "Utente") e KekkoTech Softwares per il software KekkoTech Blueprint ("Software").
+
+IMPORTANTE: SCARICANDO, INSTALLANDO O UTILIZZANDO IL SOFTWARE, L'UTENTE ACCETTA DI ESSERE VINCOLATO DAI TERMINI DI QUESTO EULA. SE NON ACCETTA, NON INSTALLI E NON UTILIZZI IL SOFTWARE.
+
+1. CONCESSIONE DI LICENZA
+KekkoTech Softwares Le concede una licenza d'uso personale, non esclusiva, non trasferibile e revocabile per l'uso del Software.
+La licenza non e' una vendita: il Software viene concesso in uso, non ceduto.
+
+2. ACCESSO PREMIUM
+L'uso del Software richiede un account KekkoTech ID con profilo Premium attivo.
+In questa fase di rilascio il profilo Premium e' attribuito gratuitamente a tutti gli account KekkoTech ID, per un periodo di durata non ancora definita.
+KekkoTech Softwares si riserva il diritto di definire in futuro condizioni di accesso diverse. In quel caso l'Utente ricevera' una comunicazione preventiva all'indirizzo associato al suo KekkoTech ID.
+Il venir meno del profilo Premium sospende il diritto d'uso del Software, ma non priva l'Utente dei file che ha gia' prodotto (si veda il punto 4).
+
+3. DIRITTI DI PROPRIETA' INTELLETTUALE SUL SOFTWARE
+Il Software, compresi il codice sorgente, l'aspetto, la struttura, la libreria di componenti e tutti i contenuti forniti con esso, e' di proprieta' esclusiva di KekkoTech Softwares ed e' protetto dalle leggi sul copyright e dai trattati internazionali.
+La presente Licenza NON concede all'Utente alcun diritto sui file del codice sorgente.
+
+4. PROPRIETA' DEI PROGETTI DELL'UTENTE
+I progetti, i file JSON e i documenti Markdown prodotti dall'Utente con il Software appartengono all'Utente.
+KekkoTech Softwares non rivendica alcun diritto su di essi, non ne acquisisce copia e non ne limita l'uso: l'Utente puo' usarli, pubblicarli, cederli e darli in pasto a strumenti di terze parti senza alcuna restrizione da parte del Licenziante.
+I progetti sono salvati in locale sul dispositivo dell'Utente. E' responsabilita' dell'Utente conservarne una copia: la funzione di esportazione in JSON esiste per questo.
+
+5. RESTRIZIONI
+E' PROIBITO all'Utente:
+a) Copiare, distribuire, concedere in sublicenza, noleggiare o vendere il Software a terzi.
+b) Modificare, decompilare, disassemblare o decodificare (reverse engineering) il Software, salvo nei limiti inderogabili consentiti dalla legge applicabile.
+c) Rimuovere o alterare qualsiasi avviso di copyright o di proprieta'.
+d) Aggirare, disattivare o manomettere i controlli di accesso e di licenza, compresa la verifica del profilo Premium.
+e) Condividere le proprie credenziali KekkoTech ID per consentire l'uso del Software a soggetti privi di un proprio account.
+f) Utilizzare il Software per scopi illegali o non autorizzati.
+
+6. AGGIORNAMENTI
+Il Software verifica la presenza di aggiornamenti presso le Release pubblicate su GitHub e puo' proporne il download e l'installazione.
+L'Utente e' libero di rifiutare un aggiornamento, ma le versioni non aggiornate possono smettere di funzionare correttamente con i servizi KekkoTech.
+
+7. DATI E RISERVATEZZA
+Il Software non invia a KekkoTech Softwares il contenuto dei progetti dell'Utente.
+Vengono trattati soltanto i dati necessari all'autenticazione e alla verifica del profilo Premium, secondo l'informativa privacy di KekkoTech ID.
+Il controllo degli aggiornamenti comporta una richiesta a GitHub, che puo' registrarne l'indirizzo IP secondo le proprie politiche.
+
+8. LIMITAZIONE DI RESPONSABILITA'
+Il Software viene fornito "cosi' com'e'", senza alcuna garanzia, esplicita o implicita, di commerciabilita' o di idoneita' a uno scopo particolare.
+KekkoTech Softwares non sara' responsabile per eventuali danni, diretti o indiretti, derivanti dall'uso o dall'impossibilita' di usare il Software, compresa la perdita di progetti non esportati.
+Le specifiche tecniche generate dal Software sono un documento di progetto: la verifica del codice che ne deriva resta in capo all'Utente.
+
+9. MODIFICHE AI TERMINI
+KekkoTech Softwares puo' modificare il presente EULA e i Termini e Condizioni del servizio.
+In caso di modifiche sostanziali l'Utente ricevera' una comunicazione preventiva. La versione vigente e' sempre pubblicata su:
+https://softwares.kekkotech.com/blueprint/terms/
+
+10. CESSAZIONE
+La Licenza e' valida fino alla sua risoluzione. I diritti dell'Utente ai sensi del presente EULA cessano immediatamente, senza preavviso, in caso di violazione di una qualsiasi delle disposizioni.
+Alla cessazione l'Utente deve interrompere l'uso del Software e disinstallarlo. I file gia' prodotti restano suoi.
+
+11. LEGGE APPLICABILE
+Il presente EULA e' regolato dalla legge italiana. Per le controversie e' competente il foro del luogo di residenza del consumatore, quando la legge lo prevede.
+
+12. CONTATTI E SUPPORTO
+Per domande legali, licenze o questioni commerciali usare il modulo su:
+https://support.kekkotech.com
+
+13. ATTRIBUZIONE OPEN SOURCE
+Il Software utilizza componenti Open Source rilasciati sotto licenze permissive (MIT, ISC, BSD e Apache 2.0) che non richiedono la condivisione del codice sorgente del Software proprietario.
+L'elenco completo e i testi di licenza si trovano nel file ATTRIBUTIONS_AND_LICENSES.txt distribuito con il Software.
+
+Copyright (c) 2026 KekkoTech Softwares - Tutti i diritti riservati.

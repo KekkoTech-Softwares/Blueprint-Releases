@@ -1,0 +1,76 @@
+INFORMAZIONI NECESSARIE PER L'INSTALLAZIONE DI KEKKOTECH BLUEPRINT
+
+REQUISITI DI SISTEMA MINIMI
+
+Windows
+* Windows 10 o successivi, a 64 bit. Windows 7, 8 e 8.1 non sono supportati.
+* Circa 350 MB di spazio su disco a installazione completata.
+
+macOS
+* macOS 13 (Ventura) o successivi. Le versioni precedenti non avviano il programma.
+* Mac con Apple Silicon oppure Intel: il file .dmg e' universale e vale per entrambi.
+* Circa 500 MB di spazio su disco a installazione completata.
+
+Linux
+* Distribuzione a 64 bit (x86_64 o arm64) con glibc 2.25 o successiva:
+  Ubuntu 18.04, Debian 10 e successivi, o equivalenti.
+* Pacchetti richiesti dal .deb: libgtk-3-0, libnotify4, libnss3, libxss1,
+  libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0.
+  Il gestore pacchetti li installa da solo; con l'AppImage devono esserci gia'.
+* Circa 300 MB di spazio su disco a installazione completata.
+
+In comune
+* CPU dual-core o superiore.
+* 4 GB di RAM; 8 GB consigliati per progetti con molte pagine.
+* Schermo da almeno 1280 x 720. E' uno strumento di progettazione: sotto
+  questa misura i pannelli si sovrappongono al canvas.
+* Durante l'installazione serve circa il doppio dello spazio finale, perche'
+  il pacchetto viene prima scaricato e poi estratto.
+* Connessione a internet: serve per l'accesso con KekkoTech ID, per la
+  verifica periodica della licenza e per gli aggiornamenti. Tra una verifica
+  e l'altra il programma funziona anche senza rete, per alcuni giorni.
+
+ACCOUNT E LICENZA
+
+* Per usare Blueprint serve un account KekkoTech ID con profilo Premium attivo.
+  In questa fase il profilo Premium e' attribuito gratuitamente a tutti gli
+  account, per un periodo di durata non ancora definita.
+* I progetti restano salvati su questo computer e appartengono a chi li crea.
+
+INSTALLAZIONE
+
+Windows
+  Eseguire KTS.Blueprint.Setup.exe e seguire la procedura guidata.
+  Esiste anche una versione portable, che non si installa e non si aggiorna
+  da sola.
+
+macOS
+  Aprire KTS.Blueprint.dmg e trascinare KekkoTech Blueprint dentro la cartella
+  Applicazioni. Avviarlo da li' e non dal disco montato: dal disco montato il
+  programma non puo' aggiornarsi.
+  L'applicazione non e' ancora firmata con un certificato Apple, quindi al
+  primo avvio macOS chiede conferma: fare clic destro sull'icona e scegliere
+  "Apri".
+
+Linux
+  .deb      installazione con il gestore pacchetti della distribuzione.
+  .AppImage nessuna installazione: va reso eseguibile e avviato. E' l'unico
+            formato Linux che si aggiorna da solo.
+  .tar.gz   archivio da scompattare a mano.
+
+Prima di aggiornare o reinstallare, chiudere eventuali altre istanze del
+programma.
+
+ACCESSO
+
+L'accesso a KekkoTech ID avviene nel browser predefinito del sistema, non
+dentro al programma: e' li' che funzionano le passkey e il gestore di
+password. Al termine il browser riporta automaticamente al programma.
+
+IMPORTANTE
+
+L'uso di questa applicazione e' regolato dal Contratto di Licenza con
+l'Utente Finale (EULA) incluso in questo setup e dai Termini e Condizioni
+pubblicati su https://softwares.kekkotech.com/blueprint/terms/
+
+Copyright (c) 2026 KekkoTech Softwares - Tutti i diritti riservati.
