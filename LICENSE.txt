@@ -43,6 +43,7 @@ L'Utente e' libero di rifiutare un aggiornamento, ma le versioni non aggiornate 
 7. DATI E RISERVATEZZA
 Il Software non invia a KekkoTech Softwares il contenuto dei progetti dell'Utente.
 Vengono trattati soltanto i dati necessari all'autenticazione e alla verifica del profilo Premium, secondo l'informativa privacy di KekkoTech ID.
+I compiti eseguiti con Claude Code o Codex dalla sezione Agenti inviano il contenuto della cartella su cui lavorano ai rispettivi fornitori (Anthropic per Claude Code, OpenAI per Codex), che lo trattano secondo i propri termini e le proprie informative privacy.
 Il controllo degli aggiornamenti comporta una richiesta a GitHub, che puo' registrarne l'indirizzo IP secondo le proprie politiche.
 
 8. LIMITAZIONE DI RESPONSABILITA'
@@ -53,7 +54,7 @@ Le specifiche tecniche generate dal Software sono un documento di progetto: la v
 9. MODIFICHE AI TERMINI
 KekkoTech Softwares puo' modificare il presente EULA e i Termini e Condizioni del servizio.
 In caso di modifiche sostanziali l'Utente ricevera' una comunicazione preventiva. La versione vigente e' sempre pubblicata su:
-https://softwares.kekkotech.com/blueprint/terms/
+https://kekko.tech/blueprint/terms
 
 10. CESSAZIONE
 La Licenza e' valida fino alla sua risoluzione. I diritti dell'Utente ai sensi del presente EULA cessano immediatamente, senza preavviso, in caso di violazione di una qualsiasi delle disposizioni.
